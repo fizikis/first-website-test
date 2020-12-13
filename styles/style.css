@@ -3,6 +3,10 @@ p {
   width: 800px;
 }
 
+p1 {
+  font-size: 16px;
+}
+
 li, h1 {
   color: #00539F;
 }
